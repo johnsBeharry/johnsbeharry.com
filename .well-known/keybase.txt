@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/johnsbeharry
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://johnsbeharry.com
+  * I am johnsbeharry (https://keybase.io/johnsbeharry) on keybase.
+  * I have a public key ASAr0IdSg49ClMbRrsqpcTSrsGE_xhokLJ5XYz3hA1YY7go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202bd08752838f4294c6d1aecaa97134abb0613fc61a242c9e57633de1035618ee0a",
+      "host": "keybase.io",
+      "kid": "01202bd08752838f4294c6d1aecaa97134abb0613fc61a242c9e57633de1035618ee0a",
+      "uid": "7da94d0a725a59fac493e03cc36c1819",
+      "username": "johnsbeharry"
+    },
+    "merkle_root": {
+      "ctime": 1533982436,
+      "hash": "1943d67e64209a75859cb82e962ba9aa89e563061d16e6921f6acdafbdd4e37499895e09d5a9310bd8e225cd11f37925232efa37f0c9ea51bfd65e4b1793726e",
+      "hash_meta": "e7f72d67b498470abee2cc83a1675d204e478ee5b58e8aa4247032746e5cd9c5",
+      "seqno": 3441691
+    },
+    "service": {
+      "entropy": "fSNQHpJVVQNIZfeFNTDySfh5",
+      "hostname": "johnsbeharry.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1533982489,
+  "expire_in": 504576000,
+  "prev": "21179b5edff730ca21c318e8763bbc668109aacb1980e719219ae37b71d9fa79",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgK9CHUoOPQpTG0a7KqXE0q7BhP8YaJCyeV2M94QNWGO4Kp3BheWxvYWTESpcCCcQgIRebXt/3MMohwxjodju8ZoEJqssZgOcZIZrje3HZ+nnEINvsKrPv1bSNnzxn6DmHizbRmzj3AHAZ6RG/QEaEKzMnAgHCo3NpZ8RAwxXMzyYom0TE39iBwC0emfoK5OU8hwbIMSPZpVcDKomgkes7Gd9Q6qy82YG+zTNqbUxOsV/ct0YqDS+9RuOmDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC/MUQAej5Skb4r6a7CZt9lBOFhGVIuu/6UZ+hqZ+o7Lo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/johnsbeharry
+
+==================================================================

@@ -1,0 +1,130 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background: #2F2BF1;
+  font: 14px/2.5em 'PT Mono', Courier;
+  color: #222127;
+  letter-spacing: 1px;
+  margin: 0;
+}
+a {
+  color: #2F2BF1;
+  text-decoration: none;
+  border-bottom: 2px solid #2F2BF1;
+  padding: 4px 0 2px;
+}
+a:hover {
+  background: #2F2BF1;
+  color: #FFF;
+}
+h1,h2,h3,h4,h5,h6 { letter-spacing: inherit; }
+#wrapper::before {
+  position: fixed;
+  content: 'Clients &\A Projects.';
+  font-family: 'Abril Fatface';
+  color: #2F2BF1;
+  /*color: rgba(255,255,255,0.94);*/
+  text-shadow: 0 0 32px #FFF;
+  font-size: 10em;
+  line-height: 1;
+  opacity: 1;
+  margin: -5% 0 0 0;
+  top: 50%;
+  left: 0%;
+  padding-left: 28px;
+  pointer-events: none;
+  }
+  .experience h2 {
+    position: fixed;
+    left: 0;
+    padding-left: 28px;
+  }
+#wrapper{
+  background-color: #FFF;
+  border: 10px solid #2F2BF1;
+  border-width: 0 10px 0 10px;
+}
+#wrapper::after {
+  content: '';
+  background-color: #2F2BF1;
+  width: 100%;
+  height: 10px;
+  /*box-shadow: 0 0 48px 48px #FFEE00;*/
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  display: block;
+}
+#container::before {
+  /*content: '';
+  border: 14px solid #FFF;
+  border-width: 0 14px 14px 14px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;*/
+}
+#container {
+  max-width: 42.857em;
+  padding: 5% 0 5% 5%;
+  margin: 10px;
+}
+header p {
+  color: #8F8F9E;
+}
+section article {
+  margin-top: 6em;
+}
+dl {
+  position: relative;
+}
+dt {
+  font-weight: bold;
+  background: #222127;
+  padding: 0 8px;
+  color: #FFF;
+  display: inline-block;
+  mix-blend-mode: darken;
+}
+footer {
+  background-color: #2F2BF1;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  max-width: 100%;
+  padding: 14px;
+  line-height: 1em;
+  color: #FFF;
+  font-size: 0.8em;
+  z-index: 101;
+}
+footer p {
+  float: left;
+  display: inline-block;
+  margin: 0;
+}
+footer ul {
+  float: right;
+  margin: 0;
+  list-style: none inside;
+}
+footer ul li {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  padding-left: 2em;
+}
+
+footer ul li a {
+  color: #FFF;
+  border-color: #FFF;
+}
+footer ul li a:hover {
+  background-color: #FFF;
+  color: #2F2BF1;
+}
